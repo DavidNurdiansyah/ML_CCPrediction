@@ -1,0 +1,14 @@
+Motorcycle Number of CC Prediction
+
+Sebuah Machine Learning yang memakai metode DecissionTree dari library SKLEARN
+Aplikasi ini mengambil dataset dari kaggle yang telah melalui banyak pemrosesan data oleh kelompok kami
+Kami menggunakan model Supervised Learning dengan Metode Decission Tree Regressor
+
+Supervised learning adalah model machine learning yang paling mudah dipahami. Proses learning dalam model 
+supervised meliputi pembuatan fungsi yang dapat dilatih menggunakan data set latihan, kemudian diaplikasikan 
+ke data yang baru untuk menciptakan prediksi terhadap data tersebut. Tujuannya adalah untuk membangun fungsi 
+yang mampu mengeneralisir data yang belum dilihat sebelumnya.
+
+Decission Tree Merupakan learning method yang digunakan untuk klasifikasi data. Algoritma ini membuat bagan 
+pohon yang memprediksi hasil dari satu vektor berdasarkan peraturan yang dibuat sebelumnya untuk diterapkan 
+dengan data saat ini.
