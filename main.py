@@ -114,7 +114,7 @@ elif app_mode == "Grafik":
                     y='Number of cc', hue='Company', ax=ax)
 
     # Menambahkan judul dan label pada axes
-    st.write('<h4 style="text-align: center; font-weight: bold;">Top 10 Bikes with the Least Number of cc</h4>',
+    st.write('<h4 style="text-align: center; font-weight: bold;">Top 10 Bikes with the Least Horsepower</h4>',
             unsafe_allow_html=True)
     ax.set_xlabel('Horsepower')
     ax.set_ylabel('Number of cc')
